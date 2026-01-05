@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "nature-1",
+      "description": "Paisagem natural com montanhas",
+      "imageUrl": "https://images.unsplash.com/photo-1611657291636-c141ee8cf7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxuYXR1cmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzY2MzQ5NTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paisagem natural"
+    },
+    {
+      "id": "nature-2",
+      "description": "Lago de montanha",
+      "imageUrl": "https://images.unsplash.com/photo-1603979649806-5299879db16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMGxha2V8ZW58MHx8fHwxNzY2MzU2NjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lago de montanha"
+    },
+    {
+      "id": "nature-3",
+      "description": "Caminho em uma floresta de outono",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmb3Jlc3QlMjBwYXRofGVufDB8fHx8MTc2NjM5OTE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caminho na floresta"
+    },
+    {
+      "id": "city-1",
+      "description": "Paisagem urbana noturna",
+      "imageUrl": "https://images.unsplash.com/photo-1560307002-306085d5ca4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuaWdodCUyMGNpdHlzY2FwZXxlbnwwfHx8fDE3NjY0MjYyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paisagem urbana noturna"
+    },
+    {
+      "id": "city-2",
+      "description": "Arquitetura de arranha-céus modernos",
+      "imageUrl": "https://images.unsplash.com/photo-1614595737683-1740e41bfaac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzY2NDE3MjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "arquitetura moderna"
+    },
+    {
+      "id": "city-3",
+      "description": "Rua movimentada em uma cidade",
+      "imageUrl": "https://images.unsplash.com/photo-1620004071518-52531ff9162c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaXR5JTIwc3RyZWV0fGVufDB8fHx8MTc2NjM1MjA4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rua da cidade"
+    },
+    {
+      "id": "ai-nature",
+      "description": "Foto de drone da natureza",
+      "imageUrl": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkcm9uZSUyMG5hdHVyZXxlbnwwfHx8fDE3NjY0MjYyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "natureza drone"
+    },
+    {
+      "id": "ai-lifestyle",
+      "description": "Comida em um prato",
+      "imageUrl": "https://images.unsplash.com/photo-1620791144170-8a443bf37a33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzY2Mzg0NTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "prato de comida"
+    }
+  ]
+}
